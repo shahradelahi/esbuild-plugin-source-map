@@ -1,6 +1,6 @@
 {
   "name": "esbuild-plugin-source-map",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Source map support plugin for esbuild powered by Mozilla's source-map",
   "keywords": [
     "esbuild",
